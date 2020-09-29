@@ -1,0 +1,19 @@
+# Gradle
+.gradle
+assembly
+build
+
+
+# IDEA
+.idea
+.shelf
+out
+*.ipr
+*.iml
+*.iws
+
+.settings
+.classpath
+.project
+
+.env

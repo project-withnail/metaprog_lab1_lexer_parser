@@ -1,2 +1,2 @@
-rootProject.name = "lab_1_lexer_parser"
+rootProject.name = "scalaformat"
 
